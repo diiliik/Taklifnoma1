@@ -22,9 +22,9 @@ const SCROLL_LOCK_CLASS = "scroll-locked";
 
 const LOCALES = {
   ru: {
-    pageTitle: "Шахриера и Дилхуша | Свадебное приглашение",
-    metaDescription: "Свадебное приглашение Шахриера и Дилхуша на 13 июня 2026 года.",
-    previewImageAlt: "Свадебное приглашение Шахриера и Дилхуша",
+    pageTitle: "Шахриёра и Дилхуша | Свадебное приглашение",
+    metaDescription: "Свадебное приглашение Шахриёра и Дилхуша на 13 июня 2026 года.",
+    previewImageAlt: "Свадебное приглашение Шахриёра и Дилхуша",
     ariaIntro: "Экран открытия приглашения",
     ariaEnvelope: "Запечатанный бумажный конверт",
     ariaWeddingDate: "Дата свадьбы",
@@ -42,9 +42,9 @@ const LOCALES = {
     envelopeTopNote:
       "<span class=\"flap-note-top\">ВЫ</span><span class=\"flap-note-middle\">ПРИГЛАШЕНЫ</span><span class=\"flap-note-script\">на свадьбу</span>",
     withLove: "с любовью,",
-    signatureNames: "Шахриер\u00a0и\u00a0Дилхуш",
+    signatureNames: "Шахриёр\u00a0и\u00a0Дилхуш",
     ornamentNames:
-      "<span class=\"ornament-name-line\">Шахриер</span><span class=\"ornament-name-amp\">и</span><span class=\"ornament-name-line\">Дилхуш</span><span class=\"ornament-name-amp\">13.06.26</span>",
+      "<span class=\"ornament-name-line\">Шахриёр</span><span class=\"ornament-name-amp\">и</span><span class=\"ornament-name-line\">Дилхуш</span><span class=\"ornament-name-amp\">13.06.26</span>",
     ornamentMessage:
       "Аллах объединил их сердца любовью<br />(сура «Аль-Анфаль», аят 63)",
     ornamentDay: "26",
