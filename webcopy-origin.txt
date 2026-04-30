@@ -1,0 +1,60 @@
+Uri: https://fonts.googleapis.com/css2?family=Forum&family=Montserrat:wght@300;400;500;600&display=swap
+File Name: C:\Downloaded Web Sites\temurbek-va-nodirabegim.vercel.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/forum/v19/6aey4Ky-Vb8Ew_IW.ttf
+File Name: C:\Downloaded Web Sites\temurbek-va-nodirabegim.vercel.app\s\forum\v19\6aey4Ky-Vb8Ew_IW.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\temurbek-va-nodirabegim.vercel.app\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\temurbek-va-nodirabegim.vercel.app\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\temurbek-va-nodirabegim.vercel.app\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\temurbek-va-nodirabegim.vercel.app\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://temurbek-va-nodirabegim.vercel.app/
+File Name: C:\Downloaded Web Sites\temurbek-va-nodirabegim.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://temurbek-va-nodirabegim.vercel.app/assets/couples photo.PNG
+File Name: C:\Downloaded Web Sites\temurbek-va-nodirabegim.vercel.app\assets\couples photo.PNG
+Content Type: image/png
+
+Uri: https://temurbek-va-nodirabegim.vercel.app/assets/gold heart.png
+File Name: C:\Downloaded Web Sites\temurbek-va-nodirabegim.vercel.app\assets\gold heart.png
+Content Type: image/png
+
+Uri: https://temurbek-va-nodirabegim.vercel.app/assets/musicIcon.png
+File Name: C:\Downloaded Web Sites\temurbek-va-nodirabegim.vercel.app\assets\musicIcon.png
+Content Type: image/png
+
+Uri: https://temurbek-va-nodirabegim.vercel.app/assets/red building.png
+File Name: C:\Downloaded Web Sites\temurbek-va-nodirabegim.vercel.app\assets\red building.png
+Content Type: image/png
+
+Uri: https://temurbek-va-nodirabegim.vercel.app/assets/red ring.png
+File Name: C:\Downloaded Web Sites\temurbek-va-nodirabegim.vercel.app\assets\red ring.png
+Content Type: image/png
+
+Uri: https://temurbek-va-nodirabegim.vercel.app/assets/skripka music.mp3
+File Name: C:\Downloaded Web Sites\temurbek-va-nodirabegim.vercel.app\assets\skripka music.mp3
+Content Type: audio/mpeg
+
+Uri: https://temurbek-va-nodirabegim.vercel.app/script.js
+File Name: C:\Downloaded Web Sites\temurbek-va-nodirabegim.vercel.app\script.js
+Content Type: application/javascript
+
+Uri: https://temurbek-va-nodirabegim.vercel.app/styles.css
+File Name: C:\Downloaded Web Sites\temurbek-va-nodirabegim.vercel.app\styles.css
+Content Type: text/css
+

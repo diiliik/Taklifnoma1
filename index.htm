@@ -1,0 +1,206 @@
+﻿<!doctype html>
+<html lang="uz">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Shahriyor va Dilxushning 2026-yil 13-iyun kungi to'y taklifnomasi.">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Shahriyor va Dilxush | To'y taklifnomasi">
+    <meta property="og:description" content="Shahriyor va Dilxushning 2026-yil 13-iyun kungi to'y taklifnomasi.">
+    <meta property="og:image" content="assets/preview.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1536">
+    <meta property="og:image:height" content="1024">
+    <meta property="og:image:alt" content="Shahriyor va Dilxushning to'y taklifnomasi">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Shahriyor va Dilxush | To'y taklifnomasi">
+    <meta name="twitter:description" content="Shahriyor va Dilxushning 2026-yil 13-iyun kungi to'y taklifnomasi.">
+    <meta name="twitter:image" content="assets/preview.png">
+    <title>Shahriyor va Dilxush | To'y taklifnomasi</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="css2?family=Forum&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <nav class="language-switcher" data-i18n-attr="aria-label:languageSwitcher" aria-label="Til tanlash">
+      <button class="language-option" type="button" data-language="ru" data-i18n-attr="aria-label:languageRuLabel;title:languageRuLabel" aria-label="Русский" aria-pressed="false">
+        RU
+      </button>
+      <button class="language-option is-active" type="button" data-language="uz" data-i18n-attr="aria-label:languageUzLabel;title:languageUzLabel" aria-label="O'zbekcha" aria-pressed="true">
+        UZ
+      </button>
+    </nav>
+
+    <button class="music-toggle" id="musicToggleBtn" type="button" aria-label="Включить музыку" aria-pressed="false" title="Включить музыку">
+      <span class="music-icon-image" aria-hidden="true"></span>
+    </button>
+
+    <section class="intro" id="intro" aria-label="Экран открытия приглашения" data-i18n-attr="aria-label:ariaIntro">
+      <div class="intro-stage">
+        <div class="intro-stage__media-wrap" aria-hidden="true">
+          <img class="intro-stage__media" src="assets/couples%20photo.PNG" alt="" fetchpriority="high" decoding="async">
+        </div>
+        <div class="intro-stage__content">
+          <div class="intro-hanging-heart" aria-hidden="true">
+            <span class="intro-hanging-heart__line"></span>
+            <img class="intro-hanging-heart__icon" src="assets/gold%20heart.png" alt="">
+          </div>
+          <h1 class="intro-title" data-i18n-html="introTitle">
+            <span class="intro-title__line">ВАМ ПРИШЛО</span>
+            <span class="intro-title__line">ПРИГЛАШЕНИЕ</span>
+          </h1>
+          <button class="intro-unlock" id="openInviteBtn" type="button" aria-expanded="false" aria-label="Открыть приглашение" title="Открыть приглашение" data-i18n-attr="aria-label:unlockInvitationLabel;title:unlockInvitationLabel">
+            <span class="intro-unlock__circle" aria-hidden="true">
+              <svg class="intro-unlock__icon" viewbox="0 0 64 64" role="presentation" focusable="false">
+                <path d="M20 28.5V21C20 14.373 25.373 9 32 9C38.627 9 44 14.373 44 21V28.5"></path>
+                <rect x="15.5" y="28.5" width="33" height="26" rx="4.5"></rect>
+                <circle cx="32" cy="40" r="2.3" fill="currentColor" stroke="none"></circle>
+                <path d="M32 42.6V48.5"></path>
+              </svg>
+            </span>
+            <span class="intro-unlock__text" data-i18n-html="unlockHint">
+              <span class="intro-unlock__line">Разблокируйте,</span>
+              <span class="intro-unlock__line">нажав на замочек</span>
+            </span>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <main class="invitation" id="invitation" aria-hidden="true">
+      <section class="letter-hero reveal" id="letterHero">
+        <article class="photo-hero" role="img" aria-label="Фотография пары с именами молодоженов" data-i18n-attr="aria-label:ariaOrnamentHero">
+          <img class="photo-hero__image" src="assets/couples%20photo.PNG" alt="" fetchpriority="high" decoding="async">
+
+          <div class="photo-hero__content">
+            <p class="ornament-names photo-hero__names" data-i18n-html="ornamentNames">
+              <span class="ornament-name-line">Шахриер</span><span class="ornament-name-amp">и</span><span class="ornament-name-line">Дилхуш</span>
+            </p>
+          </div>
+        </article>
+
+        <div class="scroll-indicator" aria-hidden="true">
+          <span class="scroll-indicator__text" data-i18n="scrollHint">Листайте вниз</span>
+          <span class="scroll-indicator__arrow">↓</span>
+        </div>
+      </section>
+
+      <section class="letter-card reveal" id="letterCard">
+        <h1 class="hero-title" data-i18n-html="heroNames">
+          <span class="hero-title__line">Дорогие наши</span>
+          <span class="hero-title__line">родные и близкие!</span>
+        </h1>
+
+        <p class="lead" data-i18n-html="lead">
+          Hayotimizdagi eng baxtli kunlardan biri - nikoh to'yimizni siz bilan
+          birga nishonlashni niyat qildik.<br><br>Sizni ushbu kechamizga
+          samimiy taklif etamiz.<br><br><strong>Quvonchli kunimizda aziz
+          mehmonimiz bo'lishingizni intizorlik bilan kutamiz.</strong>
+        </p>
+      </section>
+
+      <section class="calendar-section reveal" aria-label="Дата свадьбы" data-i18n-attr="aria-label:ariaWeddingDate">
+        <div class="calendar" role="img" aria-label="Календарь июня 2026 с выделенным 13 июня" data-i18n-attr="aria-label:ariaCalendar">
+          <div class="calendar-head">
+            <span data-i18n="calendarMonth">ИЮНЬ 2026</span>
+          </div>
+
+          <div class="calendar-grid week-days">
+            <span data-i18n="weekdayMon">ПН</span>
+            <span data-i18n="weekdayTue">ВТ</span>
+            <span data-i18n="weekdayWed">СР</span>
+            <span data-i18n="weekdayThu">ЧТ</span>
+            <span data-i18n="weekdayFri">ПТ</span>
+            <span data-i18n="weekdaySat">СБ</span>
+            <span data-i18n="weekdaySun">ВС</span>
+          </div>
+
+          <div class="calendar-grid days">
+            <span class="calendar-day">1</span>
+            <span class="calendar-day">2</span>
+            <span class="calendar-day">3</span>
+            <span class="calendar-day">4</span>
+            <span class="calendar-day">5</span>  
+            <span class="calendar-day">6</span>
+            <span class="calendar-day">7</span>
+            <span class="calendar-day">8</span>
+            <span class="calendar-day">9</span>
+            <span class="calendar-day">10</span>
+            <span class="calendar-day">11</span>
+            <span class="calendar-day">12</span>
+          <div class="heart-cell" aria-label="День свадьбы" data-i18n-attr="aria-label:ariaWeddingDay">
+            <span class="heart-day"><span>13</span></span>
+          </div>
+            <span class="calendar-day">14</span>
+            <span class="calendar-day">15</span>
+            <span class="calendar-day">16</span>
+            <span class="calendar-day">17</span>
+            <span class="calendar-day">18</span>
+            <span class="calendar-day">19</span>
+            <span class="calendar-day">20</span>
+            <span class="calendar-day">21</span>
+            <span class="calendar-day">22</span>
+            <span class="calendar-day">23</span>
+            <span class="calendar-day">24</span>
+            <span class="calendar-day">25</span>
+            <span class="calendar-day">26</span>
+            <span class="calendar-day">27</span>
+            <span class="calendar-day">28</span>
+            <span class="calendar-day">29</span>
+            <span class="calendar-day">30</span>
+            <span class="calendar-day calendar-day--empty" aria-hidden="true"></span>
+            <span class="calendar-day calendar-day--empty" aria-hidden="true"></span>
+            <span class="calendar-day calendar-day--empty" aria-hidden="true"></span>
+          </div>
+        </div>
+      </section>
+
+      <section class="location-section reveal" aria-label="Место проведения" data-i18n-attr="aria-label:ariaVenueDetails">
+        <h2 class="location-title" data-i18n="locationTitle">Место проведения</h2>
+        <p class="venue-name" data-i18n="venueName">Дворец торжеств «Шош»</p>
+        <p class="venue-address" data-i18n="venueAddress">Адрес: Toshkent, Yashnobod tumani, Fidoyilar mahalla fuqarolar yigʻini</p>
+        <div class="map-links">
+          <a class="map-link" href="https://yandex.ru/maps/-/CPSvMW2t" target="_blank" rel="noopener noreferrer">
+            <span data-i18n="mapLinkYandex">Яндекс Карты</span>
+          </a>
+          <a class="map-link" href="https://maps.app.goo.gl/T97yv61XVXhke1F66" target="_blank" rel="noopener noreferrer">
+            <span data-i18n="mapLinkGoogle">Google Maps</span>
+          </a>
+        </div>
+      </section>
+      <section class="countdown-section reveal" aria-label="Обратный отсчет" data-i18n-attr="aria-label:ariaCountdown">
+        <h2 data-i18n="countdownTitle">Считаем каждое мгновение</h2>
+
+        <div class="countdown" id="countdown" role="timer" aria-live="polite">
+          <div class="time-unit">
+            <span id="days">0</span>
+            <small data-i18n="unitDays">Дней</small>
+          </div>
+          <div class="time-unit">
+            <span id="hours">0</span>
+            <small data-i18n="unitHours">Часов</small>
+          </div>
+          <div class="time-unit">
+            <span id="minutes">0</span>
+            <small data-i18n="unitMinutes">Минут</small>
+          </div>
+          <div class="time-unit">
+            <span id="seconds">0</span>
+            <small data-i18n="unitSeconds">Секунд</small>
+          </div>
+        </div>
+
+        <p class="countdown-message" id="countdownMessage" data-i18n="countdownWaiting">
+          Мы ждем вас.
+        </p>
+      </section>
+
+     
+    </main>
+
+    <audio id="backgroundMusic" src="assets/skripka%20music.mp3" preload="auto" loop=""></audio>
+
+    <script src="script.js"></script>
+  </body>
+</html>
